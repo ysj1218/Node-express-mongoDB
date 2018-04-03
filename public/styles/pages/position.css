@@ -1,0 +1,16 @@
+#poslist {
+  margin-top: 70px;
+}
+
+#poslist caption button {
+  float: right;
+}
+
+#poslist img {
+  height: 30px;
+}
+
+#poslist .pagination {
+  margin: 0;
+  float: right;
+}
